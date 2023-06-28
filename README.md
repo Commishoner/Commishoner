@@ -2,6 +2,9 @@ Hello there! 👋
 
 Welcome to my GitHub profile! I'm thrilled to have you here. Let me take a moment to introduce myself and share a bit about my expertise and projects.
 
+### :man_technologist: About Me : I am a Quality Assurance Engineer <img src="https://media.giphy.com/media/VKyHXHb7EsFuY98BJD/giphy.gif" width="30">  
+
+
 🔭 Currently Working On: At the moment, I'm actively engaged in several exciting projects that revolve around the realm of software quality assurance (QA) and testing. My focus areas include the powerful Robotic Framework, versatile Python, and the robust Java language.
 
 🌱 Continuous Learning: I believe in the importance of continuous learning and staying up-to-date with the latest industry trends. As technology evolves, I strive to expand my knowledge and skills, always eager to explore new tools, frameworks, and methodologies that enhance the QA process and drive quality software development.

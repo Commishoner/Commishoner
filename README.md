@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 😄 Pronouns: [Add your preferred pronouns here]
 
-⚡ Fun fact: [Add an interesting or fun fact about yourself here]
+⚡ Fun fact: [I love to learn new technologies]
 
 Thank you for visiting my profile! Feel free to explore my repositories and projects. If you find anything interesting or have any suggestions, I'm open to collaboration and discussions. Let's connect and make great things happen!
 
